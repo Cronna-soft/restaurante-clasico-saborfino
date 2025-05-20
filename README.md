@@ -34,6 +34,7 @@ Desarrollado en su totalidad por **Daniel Audor**, bajo la iniciativa de **Cronn
 
 ## 🎯 Próximas Mejoras
 Este proyecto se encuentra en constante evolución. Algunas de las mejoras planeadas incluyen:
+
 ✅ Integración de formularios interactivos  
 ✅ Optimización de rendimiento y accesibilidad  
 ✅ Mejoras en la interactividad con JavaScript  
