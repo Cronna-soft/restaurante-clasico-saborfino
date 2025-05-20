@@ -1,7 +1,5 @@
 # SaborFino - Restaurante Clásico 🍽️
 
-![CRONNA](file:///C:/Users/Stork/Desktop/DANIEL/Estructura%20y%20Estilizaci%C3%B3n%20Web/assets/CRONNA%20Logotipo.png)  
-
 ## 🌐 [Visitar Sitio Web](https://cronna-soft.github.io/restaurante-clasico-saborfino/)
 
 ### Descripción 📄
