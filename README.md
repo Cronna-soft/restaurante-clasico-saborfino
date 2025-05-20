@@ -10,16 +10,16 @@
 
 Este sitio implementa **prácticas de diseño responsivo** mediante **media queries**, asegurando una experiencia óptima en diversos dispositivos. La interactividad se ha limitado a **alertas simples**, manteniendo el enfoque en la presentación y accesibilidad.
 
-### 🚀 Objetivo
+### Objetivo
 Este proyecto es un **impulso a la tecnología web y al desarrollo frontend**, mostrando cómo con herramientas esenciales se puede construir una presencia atractiva en línea para restaurantes.
 
-### 🏗️ Tecnologías Utilizadas
+### Tecnologías Utilizadas
 - **HTML5**  
 - **CSS3 + Bootstrap**  
 - **JavaScript**  
 - **Media Queries para Responsividad**  
 
-### 📌 Autor
+### Autor
 **Daniel Audor**  
 Desarrollado en su totalidad por **Daniel Audor**, bajo la iniciativa de **Cronna Soft**, una futura empresa en desarrollo de software.
 
@@ -38,4 +38,4 @@ Este proyecto se encuentra en constante evolución. Algunas de las mejoras plane
 ✅ Optimización de rendimiento y accesibilidad  
 ✅ Mejoras en la interactividad con JavaScript  
 
-¡Agradezco cualquier feedback o colaboración para mejorar **SaborFino**! 🚀✨
+¡Agradezco cualquier feedback o colaboración para mejorar **SaborFino**!
